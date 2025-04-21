@@ -1,6 +1,12 @@
-### Hi there 👋
+### Hey there, I'm Margad 👋
 
-- 🌱 I’m currently learning Everything related to software engineering.
-- ⚡ I purse some design things like Graphic Design, UXUI Design...
+🚀 Passionate about building cool stuff with **code & design**  
+🎓 Currently diving deep into all things **Software Engineering**  
+🎨 I also explore the creative world of **Graphic Design** & **UX/UI**  
 
-You can connect with me these social platforms: [Facebook](https://www.facebook.com/bmargd), [Instagram](https://www.instagram.com/margadbt).
+---
+
+📫 Let’s connect & create something awesome:  
+[🌐 Facebook](https://www.facebook.com/bmargd) | [📸 Instagram](https://www.instagram.com/margadbt)
+
+<!-- You can add GitHub stats, streaks, or featured projects below -->
