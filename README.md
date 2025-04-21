@@ -1,5 +1,3 @@
-### what's up, i'm margad
-
 i mess around with code and design  
 studying software engineering right now  
 sometimes i get into graphic stuff and ux/ui  
