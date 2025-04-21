@@ -1,12 +1,10 @@
-### Hey there, I'm Margad 👋
+### what's up, i'm margad
 
-🚀 Passionate about building cool stuff with **code & design**  
-🎓 Currently diving deep into all things **Software Engineering**  
-🎨 I also explore the creative world of **Graphic Design** & **UX/UI**  
+i mess around with code and design  
+studying software engineering right now  
+sometimes i get into graphic stuff and ux/ui  
 
 ---
 
-📫 Let’s connect & create something awesome:  
-[🌐 Facebook](https://www.facebook.com/bmargd) | [📸 Instagram](https://www.instagram.com/margadbt)
-
-<!-- You can add GitHub stats, streaks, or featured projects below -->
+you can find me here:  
+[facebook](https://www.facebook.com/bmargd) | [instagram](https://www.instagram.com/margadbt)
